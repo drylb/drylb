@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @drylb
-- 👀 I’m interested in Software Development especially Frontend.
-- 🌱 I’m currently learning Javascript, Typescript, React.
+- 👀 I’m Software Developmer with focus on Frontend.
 - 📫 How to reach me: drylb924@gmail.com
 
 <!---
