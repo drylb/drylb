@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drylb
-- 👀 I’m Software Developmer with focus on Frontend.
+- 👀 I’m Software Developer with focus on Frontend.
 - 📫 How to reach me: sergijenko.v@inbox.lv
 
 <!---
